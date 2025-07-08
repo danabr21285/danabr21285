@@ -12,7 +12,10 @@ Welcome to my GitHub portfolio! I blend admissions strategy, data analysis, and 
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
 
 ### 📊 [FIRE Program Clustering Analysis](https://github.com/danabr21285/fire-program-clustering)
-Used K-means and hierarchical clustering in R to identify learning patterns and support needs among students in the FIRE program.
+Used K-means and hierarchical clustering in R to identify learning patterns and support needs among students in the FIRE (prematriculation) program.
+
+### 📊 [FIRE Program K-means Clustering](https://github.com/danabr21285/fire-kmeans-clustering)  
+Unsupervised learning project using K-means clustering to group FIRE (prematricualtion) program students based on academic and testing indicators (MCAT, GPA, COMSAE, age). Includes normalization, elbow method, and cluster profile analysis.
 
 ### 📈 [Admissions Dashboard](https://github.com/danabr21285/admissions-dashboard)
 Interactive Tableau dashboard that visualizes MCAT, GPA, geographic, and class composition data to support admissions committee decision-making.
