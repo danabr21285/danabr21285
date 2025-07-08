@@ -11,6 +11,9 @@ Welcome to my GitHub portfolio! I blend admissions strategy, data analysis, and 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
 
+### 📈 [Student Performance Analysis Using AI](https://github.com/danabr21285/student-performance-ai-analysis)  
+Leverages GPT-4 and prompt engineering to uncover academic risk patterns among osteopathic medical students. Includes COMLEX failure prediction using logistic regression, performance thresholds, and data-driven academic intervention strategies.
+
 ### 📊 [FIRE Program Clustering Analysis](https://github.com/danabr21285/fire-program-clustering)
 Used hierarchical clustering in R to identify learning patterns and support needs among students in the FIRE (prematriculation) program.
 
