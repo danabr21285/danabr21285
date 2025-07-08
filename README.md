@@ -41,7 +41,6 @@ AI-enhanced dashboard built in Slate CRM to analyze individual applicant engagem
 
 - 💼 [LinkedIn](www.linkedin.com/in/dana-tallent-brooks-a15977a0)
 - 📧 Email: danatallent@yahoo.com
-- 🌐 [Portfolio Website (optional)](https://your-site.com)
 
 ---
 
