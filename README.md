@@ -8,6 +8,9 @@ Welcome to my GitHub portfolio! I blend admissions strategy, data analysis, and 
 
 ## 💼 Featured Projects
 
+### 🏦 [Banking Database Project](https://github.com/danabr21285/banking-database-sql)
+Practice database project written in SQL for a fictional banking system. Includes DDL scripts for tables (branch, customer, account, loan, depositor, borrower), integrity constraints, and advanced query examples using subqueries, joins, `EXCEPT`, and aggregate functions.
+
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
 
