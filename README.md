@@ -14,7 +14,7 @@ Practice database project written in SQL for a fictional banking system. Include
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
 
-### 📈 [Student Performance Analysis Using AI](https://github.com/danabr21285/student-performance-ai-analysis)  
+### 📈 [Student Performance Analysis Using AI](https://github.com/danabr21285/student-performance-analysis-using-ai)  
 Leverages GPT-4 and prompt engineering to uncover academic risk patterns among osteopathic medical students. Includes COMLEX failure prediction using logistic regression, performance thresholds, and data-driven academic intervention strategies.
 
 ### 📊 [FIRE Program Clustering Analysis](https://github.com/danabr21285/fire-program-clustering)
