@@ -32,9 +32,6 @@ Used hierarchical clustering in R to segment admissions event attendees (campus 
 ### 🧠 [Slate CRM AI-Powered School Assessment Dashboard](https://github.com/danabr21285/slate-crm-ai-powered-school-assessment-dashboard)
 AI-enhanced Slate dashboard that scores and clusters schools based on applicant trends, quality indicators, and conversion potential.
 
-### 👥 [Slate CRM AI-Powered Person Engagement Dashboard](https://github.com/danabr21285/slate-ai-engagement-dashboard)
-AI-enhanced dashboard built in Slate CRM to analyze individual applicant engagement across key touchpoints: email opens, clicks, event attendance, form submissions, and interview status. Uses AI models to score and categorize engagement patterns to prioritize outreach and identify yield opportunities.
-
 ---
 
 ## 🛠️ Skills & Tools
