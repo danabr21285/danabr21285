@@ -26,8 +26,8 @@ Unsupervised learning project using K-means clustering to group FIRE (prematricu
 ### 📈 [Admissions Dashboard](https://github.com/danabr21285/admissions-dashboard)
 Interactive Tableau dashboard that visualizes MCAT, GPA, geographic, and class composition data to support admissions committee decision-making.
 
-### 📅 [Event Performance Analysis](https://github.com/danabr21285/event-performance-analysis)
-Data analysis of admissions and recruitment event performance using Python and Tableau. Assesses trends in attendance, yield, and engagement by event type and region.
+### 🧬 [Event Attendance Clustering](https://github.com/danabr21285/event-clustering)  
+Used hierarchical clustering in R to segment admissions event attendees (campus tours, open houses, etc.) by background characteristics (first-gen, URIM, HPSA). Identified 5 clusters to guide strategic outreach and improve engagement.
 
 ### 🧠 [Slate CRM AI-Powered School Assessment Dashboard](https://github.com/danabr21285/slate-ai-school-assessment)
 AI-enhanced Slate dashboard that scores and clusters schools based on applicant trends, quality indicators, and conversion potential.
