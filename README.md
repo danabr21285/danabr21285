@@ -29,7 +29,7 @@ Interactive Tableau dashboard that visualizes MCAT, GPA, geographic, and class c
 ### 🧬 [Event Attendance Clustering](https://github.com/danabr21285/event-clustering)  
 Used hierarchical clustering in R to segment admissions event attendees (campus tours, open houses, etc.) by background characteristics (first-gen, URIM, HPSA). Identified 5 clusters to guide strategic outreach and improve engagement.
 
-### 🧠 [Slate CRM AI-Powered School Assessment Dashboard](https://github.com/danabr21285/slate-ai-school-assessment)
+### 🧠 [Slate CRM AI-Powered School Assessment Dashboard](https://github.com/danabr21285/Slate CRM AI-Powered School Assessment Dashboard)
 AI-enhanced Slate dashboard that scores and clusters schools based on applicant trends, quality indicators, and conversion potential.
 
 ### 👥 [Slate CRM AI-Powered Person Engagement Dashboard](https://github.com/danabr21285/slate-ai-engagement-dashboard)
