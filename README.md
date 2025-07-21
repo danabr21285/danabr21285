@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I blend admissions strategy, data analysis, and 
 ### 🏦 [Banking Database Project](https://github.com/danabr21285/banking-database-project)
 Practice database project written in SQL for a fictional banking system. Includes DDL scripts for tables (branch, customer, account, loan, depositor, borrower), integrity constraints, and advanced query examples using subqueries, joins, `EXCEPT`, and aggregate functions.
 
-### 🌦️ [Daily Weather Logger with Prefect](https://github.com/danabr21285/prefect-data-cleaning-project)  
+### 🌦️ [Daily Weather Logger with Prefect](https://github.com/danabr21285/prefectdatacleaningproject)  
 A simple ETL pipeline built with Python and [Prefect](https://www.prefect.io/) to fetch daily weather data from the WeatherAPI and log it to a CSV file. Demonstrates task orchestration, flow management, and external API usage.
 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
