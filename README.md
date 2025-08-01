@@ -41,6 +41,9 @@ This project demonstrates how you can use the power of **OpenAI’s large langua
 ### 📈 [Forecasting Medical School Applications Using R](https://github.com/danabr21285/forecasting)
 This project applies a linear regression model to forecast application volume for a graduate medical school program across three campuses. Built using R, the model supports data-driven enrollment planning and demonstrates how simple time-based trends can be used for predictive insights in real-world scenarios.
 
+### 📈 [Predicting Risk Outcomes Using Logistic Regression in R](https://github.com/danabr21285/predict)
+This project demonstrates how to build and interpret a logistic regression model in R to predict the likelihood of a binary outcome (e.g., failure vs. success) based on assessment, performance, and activity-based features.
+
 ---
 
 ## 🛠️ Skills & Tools
