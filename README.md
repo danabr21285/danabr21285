@@ -38,7 +38,7 @@ AI-enhanced Slate dashboard that scores and clusters schools based on applicant 
 ### 🎯 [Prompt-Driven Scoring Logic with OpenAI](https://github.com/danabr21285/scoringlogicAI)
 This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. Built using 4 years of student admissions data from a graduate healthcare program, this approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
 
-### 📈 [Forecasting Medical School Applications Using R](https://github.com/danabr21285/scoringlogicAI)
+### 📈 [Forecasting Medical School Applications Using R](https://github.com/danabr21285/forecasting)
 This project applies a linear regression model to forecast application volume for a graduate medical school program across three campuses. Built using R, the model supports data-driven enrollment planning and demonstrates how simple time-based trends can be used for predictive insights in real-world scenarios.
 
 ---
