@@ -49,9 +49,10 @@ This project demonstrates how to build and interpret a logistic regression model
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, R, SQL, HTML, Markdown
-- **Frameworks**: FastAPI, Streamlit, React (in progress)
+- **Frameworks**: FastAPI, Streamlit, React 
 - **Data Tools**: Tableau, Slate CRM, PostgreSQL, Jupyter
-- **Tech**: GitHub, VSCode, Google Cloud
+- **Dev Tools**: GitHub, VSCode
+- **Cloud and Deployment**: Render, Google Cloud
 
 ---
 
