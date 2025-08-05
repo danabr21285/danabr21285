@@ -44,6 +44,9 @@ This project applies a linear regression model to forecast application volume fo
 ### 📈 [Predicting Risk Outcomes Using Logistic Regression in R](https://github.com/danabr21285/predict)
 This project demonstrates how to build and interpret a logistic regression model in R to predict the likelihood of a binary outcome (e.g., failure vs. success) based on assessment, performance, and activity-based features.
 
+### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
+This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
+
 ---
 
 ## 🛠️ Skills & Tools
