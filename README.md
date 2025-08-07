@@ -20,11 +20,11 @@ AI-powered app that generates COMLEX-style practice questions and rationales for
 ### 📈 [Student Performance Analysis Using AI](https://github.com/danabr21285/student-performance-analysis-using-ai)  
 Leverages GPT-4 and prompt engineering to uncover academic risk patterns among osteopathic medical students. Includes COMLEX failure prediction using logistic regression, performance thresholds, and data-driven academic intervention strategies.
 
-### 📊 [FIRE Program Clustering Analysis](https://github.com/danabr21285/fire-program-clustering)
+### 📊 [Prematric Program Clustering Analysis](https://github.com/danabr21285/prematric-program-clustering)
 Used hierarchical clustering in R to identify learning patterns and support needs among students in the FIRE (prematriculation) program.
 
-### 📊 [FIRE Program K-means Clustering](https://github.com/danabr21285/fire-kmeans-clustering)  
-Unsupervised learning project using K-means clustering to group FIRE (prematricualtion) program students based on academic and testing indicators (MCAT, GPA, COMSAE, age). Includes normalization, elbow method, and cluster profile analysis.
+### 📊 [Prematric Program K-means Clustering](https://github.com/danabr21285/prematric1-kmeans-clustering)  
+Unsupervised learning project using K-means clustering to group prematricualtion program students based on academic and testing indicators (MCAT, GPA, COMSAE, age). Includes normalization, elbow method, and cluster profile analysis.
 
 ### 🧬 [Event Attendance Clustering](https://github.com/danabr21285/event-clustering)  
 Used hierarchical clustering in R to segment admissions event attendees (campus tours, open houses, etc.) by background characteristics (first-gen, URIM, HPSA). Identified 5 clusters to guide strategic outreach and improve engagement.
@@ -35,8 +35,8 @@ AI-enhanced Slate dashboard that scores and clusters schools based on applicant 
 ### 🎯 [Prompt-Driven Scoring Logic with OpenAI](https://github.com/danabr21285/scoringlogicAI)
 This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. Built using 4 years of student admissions data from a graduate healthcare program, this approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
 
-### 📈 [Forecasting Medical School Applications Using R](https://github.com/danabr21285/forecasting)
-This project applies a linear regression model to forecast application volume for a graduate medical school program across three campuses. Built using R, the model supports data-driven enrollment planning and demonstrates how simple time-based trends can be used for predictive insights in real-world scenarios.
+### 📈 [Forecasting Using R](https://github.com/danabr21285/forecasting)
+This project applies a linear regression model to forecast volume for a  program across locations. Built using R, the model supports data-driven business planning and demonstrates how simple time-based trends can be used for predictive insights in real-world scenarios.
 
 ### 📈 [Predicting Risk Outcomes Using Logistic Regression in R](https://github.com/danabr21285/predict)
 This project demonstrates how to build and interpret a logistic regression model in R to predict the likelihood of a binary outcome (e.g., failure vs. success) based on assessment, performance, and activity-based features.
