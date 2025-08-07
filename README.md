@@ -45,4 +45,4 @@ This project summarizes a set of internal tools and resources I designed to impr
 
 ---
 
-> *“Using data to unlock better outcomes for students, one insight at a time.”*
+> *“Using data to unlock better outcomes, one insight at a time.”*
