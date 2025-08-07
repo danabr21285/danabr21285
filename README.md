@@ -17,7 +17,7 @@ A simple ETL pipeline built with Python and [Prefect](https://www.prefect.io/) t
 ### 📈 [Forecasting Yearly Trends with Linear Regression in R](https://github.com/danabr21285/forecast)
 This project demonstrates how to model and forecast year-over-year trends using simple linear regression on time series data.
 
-### 📊 [Audience Segmentation with Hierarchical Clustering in R](https://github.com/danabr21285/forecast)
+### 📊 [Audience Segmentation with Hierarchical Clustering in R](https://github.com/danabr21285/events-clustering)
 This project demonstrates how to model and forecast year-over-year trends using simple linear regression on time series data.
 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
