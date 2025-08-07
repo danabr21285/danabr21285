@@ -21,7 +21,7 @@ AI-powered app that generates COMLEX-style practice questions and rationales for
 AI-enhanced dashboard that scores and clusters schools based on applicant trends, quality indicators, and conversion potential.
 
 ### 🎯 [Prompt-Driven Scoring Logic with OpenAI](https://github.com/danabr21285/scoringlogicAI)
-This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. Built using 4 years of student admissions data from a graduate healthcare program, this approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
+This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. This approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
 
 ### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
 This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
