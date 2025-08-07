@@ -20,12 +20,6 @@ AI-powered app that generates COMLEX-style practice questions and rationales for
 ### 📈 [Performance Analysis Using AI](https://github.com/danabr21285/student-performance-analysis-using-ai)  
 Leverages GPT-4 and prompt engineering to uncover risk patterns among participants. Includes Test2 failure prediction using logistic regression, performance thresholds, and data-driven intervention strategies.
 
-### 📊 [Prematric Program Clustering Analysis](https://github.com/danabr21285/prematric-program-clustering)
-Used hierarchical clustering in R to identify learning patterns and support needs among students in the prematriculation program.
-
-### 📊 [Prematric Program K-means Clustering](https://github.com/danabr21285/prematric1-kmeans-clustering)  
-Unsupervised learning project using K-means clustering to group prematricualtion program students based on academic and testing indicator. Includes normalization, elbow method, and cluster profile analysis.
-
 ### 🧬 [Event Attendance Clustering](https://github.com/danabr21285/event-clustering)  
 Used hierarchical clustering in R to segment admissions event attendees (campus tours, open houses, etc.) by background characteristics (first-gen, URIM, HPSA). Identified 5 clusters to guide strategic outreach and improve engagement.
 
