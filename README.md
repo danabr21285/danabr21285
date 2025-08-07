@@ -26,9 +26,6 @@ Used hierarchical clustering in R to identify learning patterns and support need
 ### 📊 [FIRE Program K-means Clustering](https://github.com/danabr21285/fire-kmeans-clustering)  
 Unsupervised learning project using K-means clustering to group FIRE (prematricualtion) program students based on academic and testing indicators (MCAT, GPA, COMSAE, age). Includes normalization, elbow method, and cluster profile analysis.
 
-### 📈 [Admissions Dashboard](https://github.com/danabr21285/admissions-dashboard)
-Interactive Tableau dashboard that visualizes MCAT, GPA, geographic, and class composition data to support admissions committee decision-making.
-
 ### 🧬 [Event Attendance Clustering](https://github.com/danabr21285/event-clustering)  
 Used hierarchical clustering in R to segment admissions event attendees (campus tours, open houses, etc.) by background characteristics (first-gen, URIM, HPSA). Identified 5 clusters to guide strategic outreach and improve engagement.
 
