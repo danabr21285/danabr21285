@@ -23,8 +23,8 @@ This project demonstrates how to model and forecast year-over-year trends using 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
 
-### 🧠 [CRM AI-Powered School Assessment Dashboard](https://github.com/danabr21285/crm-ai-powered-school-assessment-dashboard)
-AI-enhanced dashboard that scores and clusters schools based on applicant trends, quality indicators, and conversion potential.
+### 🧠 [PromptBadge- AI- Assisted Badge Assignment from Structured Data](https://github.com/danabr21285/promptbadge)
+An LLM-augmented pipeline that reads structured tabular data (CSV/SQL), scores entities using transparent rules, assigns a priority badge (Top / Medium / Low), and generates a concise AI summary + reasoning notes
 
 ### 🎯 [Prompt-Driven Scoring Logic with OpenAI](https://github.com/danabr21285/scoringlogicAI)
 This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. This approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
