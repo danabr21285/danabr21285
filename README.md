@@ -21,7 +21,7 @@ Interactive web app for exploring savings growth over time with adjustable assum
 This project demonstrates how to model and forecast year-over-year trends using simple linear regression on time series data.
 
 ### 📊 [Audience Segmentation with Hierarchical Clustering in R](https://github.com/danabr21285/event-clustering)
-This project demonstrates how to model and forecast year-over-year trends using simple linear regression on time series data.
+
 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
 AI-powered app that generates COMLEX-style practice questions and rationales for medical students. Built with Python, FastAPI, and OpenAI API.
