@@ -14,7 +14,7 @@ Practice database project written in SQL for a fictional banking system. Include
 ### 🌦️ [Daily Weather Logger with Prefect](https://github.com/danabr21285/prefectdatacleaningproject)  
 A simple ETL pipeline built with Python and [Prefect](https://www.prefect.io/) to fetch daily weather data from the WeatherAPI and log it to a CSV file. Demonstrates task orchestration, flow management, and external API usage.
 
-### 💵  [Savings Growth What-If (Streamlit)](https://github.com/danabr21285/prefectdatacleaningproject) 
+### 💵  [Savings Growth What-If (Streamlit)](https://github.com/danabr21285/savingsmodel) 
 Interactive web app for exploring savings growth over time with adjustable assumptions and optional A/B scenario comparisons.
 
 ### 📈 [Forecasting Yearly Trends with Linear Regression in R](https://github.com/danabr21285/forecast)
