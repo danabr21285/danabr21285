@@ -21,6 +21,7 @@ Interactive web app for exploring savings growth over time with adjustable assum
 This project demonstrates how to model and forecast year-over-year trends using simple linear regression on time series data.
 
 ### 📊 [Audience Segmentation with Hierarchical Clustering in R](https://github.com/danabr21285/event-clustering)
+This project uses hierarchical clustering in R to analyze behavioral and demographic patterns among event attendees. The goal is to identify distinct audience segments and inform more effective outreach strategies.
 
 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
