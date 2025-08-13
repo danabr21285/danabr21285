@@ -34,8 +34,8 @@ AI-powered app that generates COMLEX-style practice questions and rationales for
 ### 🧠 [PromptBadge- AI- Assisted Badge Assignment from Structured Data](https://github.com/danabr21285/promptbadge)
 An LLM-augmented pipeline that reads structured tabular data (CSV/SQL), scores entities using transparent rules, assigns a priority badge (Top / Medium / Low), and generates a concise AI summary + reasoning notes
 
-### 🎯 [Prompt-Driven Scoring Logic with OpenAI](https://github.com/danabr21285/scoringlogicAI)
-This project demonstrates how you can use the power of **OpenAI’s large language models** to generate structured, data-informed scoring rubrics from real-world tabular data. This approach is widely adaptable to any business looking to **understand customer behavior, prioritize leads, or guide strategic decisions** using transparent, explainable scoring.
+### 🎓[Predictive Enrollment Scoring](https://github.com/danabr21285/scorer)
+I developed a predictive model using Scikit-learn that scores prospective students on their enrollment likelihood, providing a data-driven tool for admissions teams to prioritize outreach. The end-to-end project, now a live Streamlit web app, serves as a template for other lead scoring and risk assessment problems in any industry.
 
 ### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
 This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
