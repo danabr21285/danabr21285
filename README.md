@@ -40,6 +40,9 @@ I developed a predictive model using Scikit-learn that scores prospective studen
 ### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
 This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
 
+### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
+This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
+
 ---
 
 ## 🛠️ Skills & Tools
