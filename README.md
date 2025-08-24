@@ -40,7 +40,7 @@ I developed a predictive model using Scikit-learn that scores prospective studen
 ### 📂 [AI-Powered Training System](https://github.com/danabr21285/aitrainingecosystem)
 This project summarizes a set of internal tools and resources I designed to improve training and strategic planning using AI, web technologies, and lightweight automation.
 
-### 🚀 [AI-Powered Customer Complaint Classification](https://github.com/danabr21285/customercomplaints)
+### 🚀 [AI-Powered Customer Complaint Classification](https://github.com/danabr21285/Customercomplaints)
 This project demonstrates a complete, end-to-end machine learning workflow to solve a common business problem: the manual sorting and routing of customer support tickets. I developed a system that uses **Natural Language Processing (NLP)** to automatically classify consumer mortgage complaints into 22 distinct categories.
 
 
