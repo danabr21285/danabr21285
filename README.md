@@ -27,7 +27,7 @@ This project demonstrates how to model and forecast year-over-year trends using 
 ### 📊 [Audience Segmentation with Hierarchical Clustering in R](https://github.com/danabr21285/event-clustering)
 This project uses hierarchical clustering in R to analyze behavioral and demographic patterns among event attendees. The goal is to identify distinct audience segments and inform more effective outreach strategies.
 
-## 🎯[Project Goal:Segmenting E-Commerce Customers](https://github.com/danabr21285/kmeans)
+### 🎯[Project Goal:Segmenting E-Commerce Customers](https://github.com/danabr21285/kmeans)
 The objective is to analyze a customer dataset to identify distinct groups or segments based on their purchasing behavior. The insights from this analysis will help the marketing team create targeted campaigns, improve customer retention, and personalize user experience.
 
 ### 🧠 [COMLEX Question Generator](https://github.com/danabr21285/comlex-question-generator)
